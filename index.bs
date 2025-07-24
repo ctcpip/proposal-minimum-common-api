@@ -42,6 +42,7 @@ Interfaces:
 * {{Blob}}
 * {{ByteLengthQueuingStrategy}}
 * <code class="idl"><a data-link-type="idl" href="https://wicg.github.io/compression/#compression-stream">CompressionStream</a></code>
+8 {{CloseEvent}}
 * {{CountQueuingStrategy}}
 * {{Crypto}}
 * {{CryptoKey}}
@@ -59,6 +60,9 @@ Interfaces:
     Cloudflare Workers ignores all parameters.
 
 * {{Headers}}
+* {{MessageChannel}}
+* {{MessageEvent}}
+* {{MessagePort}}
 * {{PromiseRejectionEvent}}
 * {{ReadableByteStreamController}}
 * {{ReadableStream}}
